@@ -10,3 +10,6 @@ Creating a new branch is quicks
 
 Creating a new branch is quick AND simple
 >>>>>>> featurel
+==========
+
+-----
